@@ -1,4 +1,4 @@
-# Training-Dashboard - Project
+# Training Dashboard - Project
 
 Content: The dataset consists of the information about the trainings in the Company with branches in 3 Regions. Data used for this analysis is synthetic.
 
