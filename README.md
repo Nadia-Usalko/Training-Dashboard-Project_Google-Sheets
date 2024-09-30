@@ -10,7 +10,10 @@ To complete this project I worked in:
 ## Trainings Analysis
 
 The following analysis summarizes syntheric data to define trends as well as improvement opportunities of a company that is organizing training for its different departments in 3 regional brunches. 
-It is important for Stakeholders to see the impact of trainings on the team performace and success of the company. Gaps can be identified e.g. if the sales targets are not achieved.
+
+Training managers regionally have their data updated on individual tabs by month. Dashboard is linked to every tab to summarize data. 2023 Progress tab shows charts with the identified trends.
+
+It is important for Stakeholders to see the impact of trainings on the team performace and success of the company. Gaps can be identified e.g. if the sales targets are not achieved or staff is receiving negative feedback about workplace communication. This kind of analysis is useful for training department to define strategy for the next year. 
 
 You can view full Dashboard in this file [Training Dashboard - Data Analysis Project](https://docs.google.com/spreadsheets/d/1hB2IlPsWakMQRt9yI2nOa4NVjYeuzaEx01vgxVx0duY/edit?gid=376724131#gid=376724131)
 
