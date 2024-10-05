@@ -9,7 +9,7 @@ To complete this project I worked in:
 
 ## Trainings Analysis
 
-The following analysis summarizes syntheric data to define trends as well as improvement opportunities of a company that is organizing training for its different departments in 3 regional brunches. 
+The following analysis summarizes synthetic data to define trends as well as improvement opportunities of a company that is organizing training for its different departments in 3 regional brunches. 
 
 Training managers regionally have their data updated on individual tabs by month. Dashboard is linked to every tab to summarize data. 2023 Progress tab shows charts with the identified trends.
 
