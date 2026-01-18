@@ -57,5 +57,5 @@ This project was completed as part of a professional development initiative to s
 
 Author: Nadia Usalko 
 Email: nadia.usalko@gmail.coml
-LinkedIn: Nadia Usalko
+LinkedIn: [Nadia Usalko](https://www.linkedin.com/in/Nadia-usalko/)
 
